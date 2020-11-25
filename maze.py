@@ -1,3 +1,4 @@
+
 # Maze Find_path Project
 def Display(visited):
     print('Solved maze path:')
